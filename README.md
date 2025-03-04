@@ -1,7 +1,7 @@
 # 🌐 Digital Marketing Website
 
 ## 🚀 Overview
-This **Digital Marketing Website** is built using **React.js, Bootstrap, and Framer Motion** to create an engaging and visually appealing user experience. It includes an **About Page** and **Contact Us Page** with smooth animations for better interactivity.
+This **Digital Marketing Website** is built using **React.js, Bootstrap, and Framer Motion library** to create an engaging and visually appealing user experience. It includes an **About Page** and **Contact Us Page** with smooth animations for better interactivity.
 
 ## 🎯 Features
 - ✅ **About Page**: Showcases business details with interactive animations  
