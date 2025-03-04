@@ -1,0 +1,70 @@
+
+ /* Section 1: Contact Information */
+ .contact-us{
+    display: flex;
+    border-radius: 20px;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
+     box-shadow: 1px 1px 0px ;
+    justify-content: space-around;
+    text-align: center;
+    margin: 20px;
+   }
+   .call-num{
+     margin-top: 15px;
+     font-variant: small-caps;
+    letter-spacing: 2px;
+    
+   }
+   .call-num a{
+    text-decoration-line: none;
+    font-size: 25px;
+   }
+   
+   .call-cnt{
+    margin-top: 10px;
+    font-variant: small-caps;
+    letter-spacing: 1px;
+  
+   }
+   .call-cnt b{
+    font-size: 30px;
+  
+   }
+   .input-btn{
+    margin: 30px;
+
+   }
+   .input-btn button{
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    padding-inline: 30px;
+    color:white;
+    background-color: #eeaeca;
+   }
+   .input-btn button:hover{
+    background-color: black;
+    color: white;
+  
+   }
+   
+ /* Section 2: FAQ Accordion */
+ .contactus{
+    display: flex;
+    margin: 20px;
+   }
+   .accordion{
+    margin: 20px;
+    padding: 30px;
+   
+   }
+   .accordion-body{
+    width: 800px;
+   }
+   /* Section 4: Location */
+   .location{
+    text-align: center;
+    margin: 20px;
+   }
+  
