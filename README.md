@@ -11,13 +11,11 @@ This **Digital Marketing Website** is built using **React.js, Bootstrap, and Fra
 - 📞 **Contact Form**: Users can send inquiries easily  
 
 ## 🛠️ Technologies Used
-- **Frontend:** React.js  
+- **Frontend:** React.js
 - **Styling:** Bootstrap, Custom CSS  
 - **Animations:** Framer Motion  
  
 
 
 
-
-https://github.com/user-attachments/assets/6c798c2a-a212-41a7-b5d5-8befc6e594fd
 
